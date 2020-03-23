@@ -7,7 +7,7 @@ import calc.Calculator;
 
 import static asserts.MyAsserts.*;
 
-public class myTests {
+public class MyTests {
 	private static Calculator calculator;
 
 	@Before
